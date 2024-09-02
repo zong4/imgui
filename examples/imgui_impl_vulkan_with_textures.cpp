@@ -49,7 +49,7 @@
 #include "imgui_impl_vulkan_with_textures.h"
 #include <stdio.h>
 
-#include "Hazel/Platform/Vulkan/VulkanRenderer.h"
+#include "Engine/Platform/Vulkan/VulkanRenderer.h"
 
 // Reusable buffers used for rendering 1 current in-flight frame, for ImGui_ImplVulkan_RenderDrawData()
 // [Please zero-clear before use!]
